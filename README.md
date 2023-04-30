@@ -1,3 +1,3 @@
-# gallery walk
+# Elastic Fargate Demo
 
-An awesome photo gallery application written in Go!
+A basic application written in Go!
