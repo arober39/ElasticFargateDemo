@@ -8,7 +8,7 @@ import (
 
 func home(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
         w.Header().Set("Content-Type", "text/html")
-        fmt.Fprint(w, "<h1>Welcome to my awesome site!</h1>")
+        fmt.Fprint(w, "<h1>Welcome to my golang site hosted on AWS Fargate!</h1>")
 }
 
 func contact(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
