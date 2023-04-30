@@ -1,0 +1,7 @@
+# Don't commit build file
+ElasticFargateDemo
+# Don't commit go module file
+go.mod
+go.sum
+# Don't commit tmp/
+tmp/
